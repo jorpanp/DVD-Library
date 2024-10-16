@@ -1,6 +1,7 @@
 from library import *
 from dvd import *
  
+#Main program som hanterar användarinput i terminalen.
 def main():
     library = Library()
 
